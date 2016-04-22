@@ -1,0 +1,5 @@
+/Users/mton/Projects/AlgoPractice/AlgoPractice/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mton/Projects/AlgoPractice/AlgoPractice/bin/Debug/AlgoPractice.exe.mdb
+/Users/mton/Projects/AlgoPractice/AlgoPractice/bin/Debug/AlgoPractice.exe
+/Users/mton/Projects/AlgoPractice/AlgoPractice/obj/x86/Debug/AlgoPractice.exe
+/Users/mton/Projects/AlgoPractice/AlgoPractice/obj/x86/Debug/AlgoPractice.exe.mdb
