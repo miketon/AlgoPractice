@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="AlgoPractice/AlgoPractice.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlgoPractice/Program.cs">
     <Files>
-      <File FileName="AlgoPractice/Program.cs" Line="1" Column="1" />
+      <File FileName="AlgoPractice/Program.cs" Line="27" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
